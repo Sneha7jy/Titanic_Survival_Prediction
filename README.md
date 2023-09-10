@@ -9,9 +9,9 @@ Welcome to the "Titanic Survival Prediction" project repository! This repository
 
 In this repository, you'll find everything you need to understand, replicate, and expand upon our Titanic Survival Prediction project. Here's an overview of what you'll discover:
 
-1. ##**Data Exploration**: Dive into the exploration of the Titanic dataset. We provide Jupyter notebooks that showcase data analysis techniques, data visualization, and initial insights into the dataset. Understanding the data is the first crucial step in building a successful prediction model.
+#1. **Data Exploration**:  Dive into the exploration of the Titanic dataset. We provide Jupyter notebooks that showcase data analysis techniques, data visualization, and initial insights into the dataset. Understanding the data is the first crucial step in building a successful prediction model.
 
-2. ##**Data Preprocessing**: Data preprocessing is essential for cleaning and preparing the dataset for machine learning. Our repository includes scripts and notebooks that demonstrate techniques for handling missing data, encoding categorical variables, and scaling features.
+2. **Data Preprocessing**: Data preprocessing is essential for cleaning and preparing the dataset for machine learning. Our repository includes scripts and notebooks that demonstrate techniques for handling missing data, encoding categorical variables, and scaling features.
 
 3. ##**Feature Engineering**: Discover how we engineer new features from the existing dataset to improve the predictive power of our machine learning models. Feature engineering is a critical step in creating a robust predictive model.
 
